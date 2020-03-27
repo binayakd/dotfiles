@@ -149,3 +149,8 @@ alias path='echo -e ${PATH//:/\\n}'
 
 # SSH into hex
 alias hex='ssh binayak@192.168.0.161'
+
+# kube stuff
+alias k='kubectl'
+alias kns='kubens'
+alias kcx='kubects'
